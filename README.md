@@ -1,5 +1,5 @@
 # Asyncio
 
-In this video I talk about concurrent programming in Python and show you some examples of what you can do with the asyncio package. I also show a few more advanced use-cases such as retrieving data from an http endpoint asynchronously, using async with generators and comprehensions, and finally how to turn non-asynchronous code into asycn code that nicely fits into the async event loop.
+If your software interacts with external APIs, you need to know concurrent programming. I show you how it works in Python and then take it to the next level by showing advanced concurrent features such as using async with generators and comprehensions, show a simple way to turn blocking code into concurrent code, and then I cover how concurrency affects software design and architecture.
 
-Video: coming up.
+Video: https://youtu.be/GpqAQxH1Afc.
